@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+}
+
+#areaEl {
+	height: 307px;
+	width: 408px;
+	border: 1px solid #000;
+	margin: 10px auto;
+}
+
+#score {
+	height: 20px;
+	width: 200px;
+	margin: 10px auto;
+	padding: 5px;
+	font: 20px arial, sans-serif;
+}
+
+.pos {
+	height: 100px;
+	width: 100px;
+	float: left;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+	
